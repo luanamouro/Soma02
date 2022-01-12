@@ -1,0 +1,13 @@
+C:\imersao_logica\Soma02\Soma02\bin\Debug\netcoreapp3.1\Soma02.exe
+C:\imersao_logica\Soma02\Soma02\bin\Debug\netcoreapp3.1\Soma02.deps.json
+C:\imersao_logica\Soma02\Soma02\bin\Debug\netcoreapp3.1\Soma02.runtimeconfig.json
+C:\imersao_logica\Soma02\Soma02\bin\Debug\netcoreapp3.1\Soma02.runtimeconfig.dev.json
+C:\imersao_logica\Soma02\Soma02\bin\Debug\netcoreapp3.1\Soma02.dll
+C:\imersao_logica\Soma02\Soma02\bin\Debug\netcoreapp3.1\Soma02.pdb
+C:\imersao_logica\Soma02\Soma02\obj\Debug\netcoreapp3.1\Soma02.GeneratedMSBuildEditorConfig.editorconfig
+C:\imersao_logica\Soma02\Soma02\obj\Debug\netcoreapp3.1\Soma02.AssemblyInfoInputs.cache
+C:\imersao_logica\Soma02\Soma02\obj\Debug\netcoreapp3.1\Soma02.AssemblyInfo.cs
+C:\imersao_logica\Soma02\Soma02\obj\Debug\netcoreapp3.1\Soma02.csproj.CoreCompileInputs.cache
+C:\imersao_logica\Soma02\Soma02\obj\Debug\netcoreapp3.1\Soma02.dll
+C:\imersao_logica\Soma02\Soma02\obj\Debug\netcoreapp3.1\Soma02.pdb
+C:\imersao_logica\Soma02\Soma02\obj\Debug\netcoreapp3.1\Soma02.genruntimeconfig.cache
